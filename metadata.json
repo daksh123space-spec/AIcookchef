@@ -1,0 +1,7 @@
+{
+  "name": "AIcookchef",
+  "description": "Transform your pantry items into gourmet meals with AI-powered dish suggestions, detailed recipes, and a culinary assistant.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
